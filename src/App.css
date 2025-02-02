@@ -1,0 +1,13 @@
+.App {
+    transition: background-color 0.3s, color 0.3s;
+}
+  
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+  
+.dark-mode-toggle {
+    transition: background-color 0.3s, color 0.3s;
+}
+  
